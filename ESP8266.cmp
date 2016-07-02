@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 02 Jul 2016 05:07:53 PM BRT
+
+BeginCmp
+TimeStamp = /57781B16;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /57781B25;
+Reference = C2;
+ValeurCmp = 10uf;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /577729A0;
+Reference = K1;
+ValeurCmp = USB/Serial;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5777279D;
+Reference = MOD1;
+ValeurCmp = ESP8266-12;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /577727F2;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5777282E;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57772801;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /57781CFD;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /57772B2A;
+Reference = U1;
+ValeurCmp = NCP1117ST33T3G;
+IdModule  = TO220_VERT;
+EndCmp
+
+EndListe
